@@ -1,0 +1,14 @@
+{"question": "What is retrieval-augmented generation?", "expected_route": "CORPUS", "expected_source": "retrieval_augmented_generation.md", "must_mention": ["retriev", "prompt"]}
+{"question": "Why does RAG reduce hallucination?", "expected_route": "CORPUS", "expected_source": "retrieval_augmented_generation.md", "must_mention": ["ground"]}
+{"question": "How does chunk size affect retrieval quality?", "expected_route": "CORPUS", "expected_source": "retrieval_augmented_generation.md", "must_mention": ["context"]}
+{"question": "How does BM25 rank documents?", "expected_route": "CORPUS", "expected_source": "vector_and_keyword_search.md", "must_mention": ["rare", "frequency"]}
+{"question": "What are embeddings and why use vector search?", "expected_route": "CORPUS", "expected_source": "vector_and_keyword_search.md", "must_mention": ["embedding"]}
+{"question": "What is hybrid retrieval?", "expected_route": "CORPUS", "expected_source": "vector_and_keyword_search.md", "must_mention": ["keyword", "vector"]}
+{"question": "Why separate the writer agent from the critic agent?", "expected_route": "CORPUS", "expected_source": "multi_agent_systems.md", "must_mention": ["review"]}
+{"question": "Why do feedback loops between agents need an iteration limit?", "expected_route": "CORPUS", "expected_source": "multi_agent_systems.md", "must_mention": ["limit"]}
+{"question": "What does faithfulness measure?", "expected_route": "CORPUS", "expected_source": "evaluating_llm_applications.md", "must_mention": ["support"]}
+{"question": "What is routing accuracy?", "expected_route": "CORPUS", "expected_source": "evaluating_llm_applications.md", "must_mention": ["planner"]}
+{"question": "What does chain-of-thought prompting do?", "expected_route": "CORPUS", "expected_source": "prompting_and_context.md", "must_mention": ["step"]}
+{"question": "Why use a low sampling temperature for question answering?", "expected_route": "CORPUS", "expected_source": "prompting_and_context.md", "must_mention": ["deterministic"]}
+{"question": "What are the latest large language model releases this year?", "expected_route": "WEB", "expected_source": null, "must_mention": []}
+{"question": "What is in the news today about AI agent frameworks?", "expected_route": "WEB", "expected_source": null, "must_mention": []}
